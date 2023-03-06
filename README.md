@@ -1,2 +1,2 @@
 # excel-merge
-url: https://braboobssiere.github.io/excel-merge/
+https://braboobssiere.github.io/excel-merge/
